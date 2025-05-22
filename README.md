@@ -4,25 +4,23 @@ Interactive map with results from IBJJF 2024
 Výstupem kódu je jednoduchá interaktovní mapa ve fotmátu html s počtem medaily v dospělých kategoriích z IBJJF (International Brazilian Jiu-Jitsu Federation) roku 2024 rozdělenych dle země zavodníků.
 
 
+
 ## ▶️ Spuštění v Google Colab
 
 Klikni pro spuštění:  
 [![Otevřít v Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kamilkucej/ibjjf2024map/blob/main/ibjjf2024map.ipynb)
 *Nutno upravit bloky kody dle poznámek v kódu
 
+
 ## 📖 Obsah repozitáře
 
 | Název souboru       | Popis                                               |
 |---------------------|------------------------------------------------------|
-| `ibjjf2024map.ipynb`| Hlavní Jupyter notebook s kódem a vizualizacemi     |
-| `ibjjf_events.csv`  | Dataset s informacemi o turnajích (stažený z Kaggle)|
+| `ibjjf2024map.ipynb`| Hlavní Jupyter notebook s kódem pro analýzu dat z csv souboru a výstupem interaktivní mapy ve formátu html  |
+| `ibjjf_events.csv`  | Dataset s informacemi o turnajích stažený z Kaggle (https://www.kaggle.com/datasets/oliveiraricardotech/world-jiu-jitsu-ibjjf-championship-2024-results)|
 | `mapa.png`          | Náhled výstupu z interaktivní mapy                  |
-| `README.md`         | Tento popisný soubor                                 |
+| `README.md`         | Tento textový soubor s popisem                               |
 
-## 🚀 Spuštění v Google Colab
-
-Chceš si projekt vyzkoušet bez instalace? Otevři ho v Google Colabu:  
-[![Otevřít v Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kamilkucej/ibjjf2024map/blob/main/ibjjf2024map.ipynb)
 
 ## 🧠 Hlavní funkce
 
