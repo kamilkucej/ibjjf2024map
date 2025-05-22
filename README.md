@@ -1,4 +1,4 @@
-                                                                                              🌍 IBJJF 2024 MAP 🥇
+                                                                              🌍 IBJJF 2024 MAP 🥇
 
 Interactive map with results from IBJJF 2024
 Výstupem kódu je jednoduchá interaktovní mapa ve fotmátu html s počtem medaily v dospělých kategoriích z IBJJF (International Brazilian Jiu-Jitsu Federation) roku 2024 rozdělenych dle země zavodníků.
