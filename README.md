@@ -1,13 +1,13 @@
-# ibjjf2024map
+🌍 IBJJF 2024 MAP 🥇
 Interactive map with results from IBJJF 2024
-interaktovní mapa s počtem medaily v dospělých kategoriích z IBJJF roku 2024 rozdělenych dle země zavodníků.
-Vysledkem je jednoduchá interaktní mapa ve formátu hmtl
+Výstupem kódu je jednoduchá interaktovní mapa ve fotmátu html s počtem medaily v dospělých kategoriích z IBJJF (International Brazilian Jiu-Jitsu Federation) roku 2024 rozdělenych dle země zavodníků.
 
-## ▶️ Spuštění v Google Colab
+▶️ Spuštění v Google Colab
 
 Klikni pro spuštění:  
 [![Otevřít v Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kamilkucej/ibjjf2024map/blob/main/ibjjf2024map.ipynb)
-Nutno upravit bloky kody dle poznámek v kodu
+
+*Nutno upravit bloky kody dle poznámek v kódu
 
 ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ###
 # 🗺️ IBJJF 2024 MAP
