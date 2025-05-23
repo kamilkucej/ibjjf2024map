@@ -18,7 +18,7 @@ Klikni pro spuštění:
 |---------------------------|------------------------------------------------------|
 | `ibjjf2024.ipynb`      | Hlavní Jupyter notebook s kódem pro analýzu dat z csv souboru a výstupem interaktivní mapy ve formátu html  |
 | `results2024.csv`       | Dataset s informacemi o turnajích stažený z Kaggle 
-(https://www.kaggle.com/datasets/oliveiraricardotech/world-jiu-jitsu-ibjjf-championship-2024-results)|
+                            (https://www.kaggle.com/datasets/oliveiraricardotech/world-jiu-jitsu-ibjjf-championship-2024-results)|
 | `World-IBJJF-white.png`  | logo použité při vizualizaci                  |
 | `ibjjf2024_map.html`     | Jednoduchá nteraktivní mapy, jenž je výstupem kodu |
 | `README.md`               | Tento textový soubor s popisem                        |
