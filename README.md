@@ -23,14 +23,6 @@ Klikni pro spuštění:
 | `README.md`               | Tento textový soubor s popisem                        |
 
 
-## 🧠 Hlavní funkce
-
-- 🌍 Interaktivní mapa všech IBJJF turnajů v roce 2024  
-- 📍 Zobrazení lokace, názvu, data a odkazu na web turnaje  
-- 📊 Statistické vizualizace podle měsíců, kontinentů nebo zemí  
-- 🔍 Možnost filtrování dle typu turnaje nebo regionu  
-- 📦 Vizuální přehled pro sportovce, organizátory i fanoušky  
-
 ## 📊 Použitá data
 
 - Dataset: [IBJJF 2024 Events – Kaggle](https://www.kaggle.com/) (https://www.kaggle.com/datasets/oliveiraricardotech/world-jiu-jitsu-ibjjf-championship-2024-results)
@@ -49,11 +41,11 @@ Klikni pro spuštění:
 ## 🧰 Jak projekt spustit lokálně
 
 Naklonuj tento repozitář:  
-# git clone https://github.com/kamilkucej/ibjjf2024map.git  
-# cd ibjjf2024map  
+git clone https://github.com/kamilkucej/ibjjf2024map.git  
+cd ibjjf2024map  
 
 Nainstaluj potřebné knihovny:  
-# pip install pandas dash plotly folium  
+pip install pandas dash plotly folium  
 
 Spusť notebook v Jupyteru nebo Google Colabu. 
 
