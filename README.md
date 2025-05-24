@@ -31,11 +31,11 @@ Klikni pro spuštění:
 
 ## ⚙️ Použité technologie a knihovny
 
-- 🐍 Python 3.x  
-- 📊 `pandas`, `plotly.express`  
-- 🌍 `folium` – pro mapové vrstvy a interaktivní prvky  
-- 📱 `dash` – pro vytvoření jednoduchého interaktivního webového dashboardu  
-- 🖼️ `base64` – pro vkládání obrázků do mapy  
+- Python 3.11  
+- `pandas`, `plotly.express` - základní knihovny pro manipulaci s daty a vizualizaci
+- `dash` – pro vytvoření jednoduchého interaktivního webového dashboardu  
+- `base64` – pro vkládání obrázků do mapy
+- `folium` – pro mapové vrstvy a interaktivní prvky   
 
 ## 🧰 Jak projekt spustit lokálně
 
