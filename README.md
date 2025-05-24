@@ -25,7 +25,7 @@ Klikni pro spuštění:
 
 ## 📊 Použitá data
 
-- Dataset: [IBJJF 2024 Events – Kaggle](https://www.kaggle.com/) (https://www.kaggle.com/datasets/oliveiraricardotech/world-jiu-jitsu-ibjjf-championship-2024-results)
+- Dataset: [IBJJF 2024 Events – Kaggle](https://www.kaggle.com/datasets/oliveiraricardotech/world-jiu-jitsu-ibjjf-championship-2024-results)
 - Data byla ručně zkontrolována a předzpracována pro potřeby vizualizace
 - z důvodu vetší přesnosti byly země zavodníků dohledávany ručně
 - CSV obsahuje: název turnaje, datum a místo konání, kontinent, stát, město, URL turnaje, typ turnaje  
@@ -56,5 +56,5 @@ Volně použitelný pro osobní i vzdělávací účely.
 
 ## 🧑‍💻 Autor
 
-**Kamil Kučej**  
+**Kamil Kucej**  
 GitHub: [@kamilkucej](https://github.com/kamilkucej)
