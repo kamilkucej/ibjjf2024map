@@ -15,7 +15,7 @@ Klikni pro spuštění:
 ## 📖 Obsah repozitáře
 
 | Název souboru             | Popis                                               |
-|---------------------------|------------------------------------------------------|
+|---------------------------------------|------------------------------------------------------|
 | `ibjjf2024.ipynb`      | Hlavní Jupyter notebook s kódem pro analýzu dat z csv souboru a výstupem interaktivní mapy ve formátu html  |
 | `results2024.csv`       | Dataset s informacemi o turnaji stažený z Kaggle viz. Použité data|
 | `World-IBJJF-white.png`  | logo použité při vizualizaci                  |
