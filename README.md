@@ -12,6 +12,7 @@ Klikni pro spuštění:
 *Nutno upravit bloky kody dle poznámek v kódu
 
 
+
 ## 📖 Obsah repozitáře
 
 | Název souboru             | Popis                                               |
