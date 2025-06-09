@@ -9,7 +9,7 @@ Výstupem kódu je jednoduchá interaktovní mapa ve fotmátu html s počtem med
 
 Klikni pro spuštění:  
 [![Otevřít v Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kamilkucej/ibjjf2024map/blob/main/ibjjf2024map.ipynb)
-  *Nutno upravit bloky kody dle poznámek v kódu
+ *Nutno upravit bloky kody dle poznámek v kódu
 
 
 ## 📖 Obsah repozitáře
